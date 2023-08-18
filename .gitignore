@@ -1,0 +1,5 @@
+deploy
+target
+node_modules
+.DS_store
+account.json
