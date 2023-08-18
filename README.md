@@ -1,5 +1,5 @@
 # Wookey: Woocommerce Webauth gateway
-
+*The escrow smart contract for a WebAuth-Enabled Gateway for WooCommerce*
 To ease the pain of a bulky installation and configuration from the store owner, Wookey provides a smart contract that handles the process for all stores in one place :
 
 The core of the smart contract is the following actions: 
